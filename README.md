@@ -1,7 +1,3 @@
-### Hi there 👋
-### Student of the professional course in computer systems management and programming
-### Portugal, Viseu
-
 
 <!--
 **apascoa/apascoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

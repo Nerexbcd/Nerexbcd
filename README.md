@@ -6,6 +6,11 @@
 - ⚡ Fun fact: Love network and OS
 - 📫 How to reach me:
   - Email: abiliodpascoa@gmail.com  
+
+<!--
+-  My socials:
+   - Dev.to: https://dev.to/apascoa
+   - 
 <!--
 **apascoa/apascoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,8 @@
   - Email: abiliodpascoa@gmail.com  
 
 <!--
--  My socials:
+-  Profile Links:
    - Dev.to: https://dev.to/apascoa
-   - 
 <!--
 **apascoa/apascoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

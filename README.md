@@ -1,4 +1,11 @@
+### APáscoa
 
+- 🔭 I’m currently working on: (Nothing big, for now 😉)
+- 🌱 I’m currently learning: Python
+- 🤔 I’m looking for help with: Other programing languages (JS, C Sharp)
+- ⚡ Fun fact: Love network and OS
+- 📫 How to reach me:
+  - Email: abiliodpascoa@gmail.com  
 <!--
 **apascoa/apascoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

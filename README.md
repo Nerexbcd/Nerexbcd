@@ -7,7 +7,9 @@
 - 📫 How to reach me:
   - Email: abiliodpascoa@gmail.com 
 - 🤝 Partnership with:
-  - [<sub> bfc </sub>](https://github.com/bfc1557/)
+
+[<img src="https://avatars.githubusercontent.com/u/91901625?v=4" width=115 > <br> <sub> bfc </sub>](https://github.com/bfc1557) |
+| :---: | 
 
 <!--
 -  Profile Links:

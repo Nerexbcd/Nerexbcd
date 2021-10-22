@@ -5,7 +5,9 @@
 - 🤔 I’m looking for help with: Other programing languages (JS, C Sharp)
 - ⚡ Fun fact: Love network and OS
 - 📫 How to reach me:
-  - Email: abiliodpascoa@gmail.com  
+  - Email: abiliodpascoa@gmail.com 
+- 🤝 Partnership with:
+  - @bfc1557
 
 <!--
 -  Profile Links:

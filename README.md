@@ -29,3 +29,8 @@
 
 ## Contact:
 - Email: abiliodpascoa@gmail.com 
+
+## Commits
+<div>
+![Snake animation](https://github.com/apascoa/apascoa/blob/output/github-contribution-grid-snake.svg)
+</div>

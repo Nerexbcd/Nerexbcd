@@ -32,5 +32,5 @@
 
 ## Commits
 <div>
-  <img align="center" src="https://github.com/apascoa/apascoa/blob/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://github.com/apascoa/apascoa/blob/output/commits-snake.svg">
 </div>

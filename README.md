@@ -3,10 +3,7 @@
 ## About Me:
 - Student of the professional course in computer systems management and programming
 - Love network and OS
-- Linux distribution preference:
-  - CentOs
-  - Debian
-  - Ubuntu
+- Linux User (Not Main OS)
 
 ## Work:
 - Web Developer

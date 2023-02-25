@@ -52,7 +52,7 @@
 </div>
 
 ## Contact:
-- Email: abiliodpascoa@gmail.com 
+- Email: contact@apascoa.xyz
 
 ## Commits
 <div>

@@ -1,4 +1,4 @@
-# APáscoa
+# Nerex
 
 ## About Me:
 - Student of the professional course in computer systems management and programming

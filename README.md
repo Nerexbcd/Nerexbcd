@@ -54,7 +54,9 @@
 ## Contact:
 - Email: contact@apascoa.xyz
 
+<!--
 ## Commits
 <div>
   <img align="center" src="https://github.com/apascoa/apascoa/blob/output/commits-snake.svg">
 </div>
+-->

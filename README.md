@@ -52,7 +52,7 @@
 </div>
 
 ## Contact:
-- Email: contact@apascoa.xyz
+- Email: contact.nerexbcd@proton.me
 
 <!--
 ## Commits

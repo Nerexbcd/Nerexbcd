@@ -54,9 +54,15 @@
 ## Contact:
 - Email: contact.nerexbcd@proton.me
 
-<!--
+
+
 ## Commits
 <div>
-  <img align="center" src="https://github.com/apascoa/apascoa/blob/output/commits-snake.svg">
+  <!-- <img align="center" src="https://github.com/Nerexbcd/Nerexbcd/blob/output/commits-snake.svg"> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
--->
+

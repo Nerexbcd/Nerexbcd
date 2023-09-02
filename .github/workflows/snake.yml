@@ -16,8 +16,17 @@ jobs:
           target_branch: output
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: ensure the generated file exists
+        run: |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
     env:
       # a github token is required to fetch the contribution calendar from github API
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

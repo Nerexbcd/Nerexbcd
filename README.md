@@ -7,7 +7,7 @@
 - Vr User
 
 ## Work:
-- Web Developer
+- Web Developer (Fullstack)
 - Network Management
 - OS Management (Linux, Windows)
 - Unity 

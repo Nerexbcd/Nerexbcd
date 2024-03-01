@@ -54,6 +54,9 @@
 ## Contact:
 - Email: contact.nerexbcd@proton.me
 
+<!--
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,bootstrap,js,docker,git,linux,mysql,nodejs,php,tailwind,visualstudio,vscode,)](https://skillicons.dev)
+-->
 
 ## Commits
 <div>

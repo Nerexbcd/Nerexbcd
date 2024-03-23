@@ -52,7 +52,7 @@
 </div>
 
 ## Contact:
-- Email: contact.nerexbcd@proton.me
+- Email: me.nerexbcd.com
 
 
 ## Commits

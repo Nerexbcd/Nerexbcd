@@ -1,0 +1,26 @@
+name: Generate Stats
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Generate classic metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, repositories
+        plugin_lines: yes
+        output_action: commit
+        committer_branch: output
+        committer_message: "chore: update metrics"

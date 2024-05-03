@@ -23,16 +23,6 @@ jobs:
         output_action: commit
         committer_branch: output
         committer_message: "Update Classic Metrics"
-    - name: Fortune
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.fortune.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_fortune: yes
-        output_action: commit
-        committer_branch: output
-        committer_message: "Update Fortune"
 
     - name: Compact Achievements
       uses: lowlighter/metrics@latest
@@ -58,19 +48,6 @@ jobs:
         output_action: commit
         committer_branch: output
         committer_message: "Update Achievements"
-
-    - name: Topics Icons
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.topics.icons.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_topics: yes
-        plugin_topics_limit: 0
-        plugin_topics_mode: icons
-        output_action: commit
-        committer_branch: output
-        committer_message: "Update Topics Icons"
 
     - name: Most Used Languages (with details)
       uses: lowlighter/metrics@latest

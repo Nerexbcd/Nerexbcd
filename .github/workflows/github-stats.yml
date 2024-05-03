@@ -32,12 +32,14 @@ jobs:
     # Install dependencies with `pip`
     - name: Install requirements
       run: |
+        cd github-stats
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
 
     # Generate all statistics images
     - name: Generate images
       run: |
+        cd github-stats
         python3 --version
         python3 generate_images.py
       env:
@@ -49,9 +51,10 @@ jobs:
 
     - name: ensure the generated file exists
       run: |
-          ls dist
-          test -f generated/overview.svg
-          test -f generated/languages.svg
+        cd github-stats
+        ls generated
+        test -f generated/overview.svg
+        test -f generated/languages.svg
     - name: push genarated stats to the output branch
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:

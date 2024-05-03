@@ -57,6 +57,9 @@ jobs:
         base: ""
         plugin_languages: yes
         plugin_languages_details: bytes-size, percentage
+        output_action: commit
+        committer_branch: output
+        committer_message: "Update Most Used Languages"
         plugin_languages_limit: 0
 
 

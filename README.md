@@ -1,6 +1,6 @@
 # Nerex
 
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output/metrics.classic.svg)|![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output/metrics.plugin.languages.details.svg)
+![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.classic.svg)|![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.languages.details.svg)
 |:---:|:---:|
 
 ## About Me:
@@ -58,13 +58,13 @@
 -->
 
 ## My Achievements
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output/metrics.plugin.achievements.compact.svg)
+![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.achievements.compact.svg)
 <details>
 <summary>
   Achivements Details
 </summary>
 
-![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output/metrics.plugin.achievements.svg)
+![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.achievements.svg)
 
 </details>
 

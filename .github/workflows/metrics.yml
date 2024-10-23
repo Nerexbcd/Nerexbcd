@@ -19,6 +19,7 @@ jobs:
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
+        base_hireable: yes
         plugin_lines: yes
         output_action: commit
         committer_branch: output-metrics

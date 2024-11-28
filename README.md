@@ -19,7 +19,7 @@
 
 <div id="MySkills"></div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,bootstrap,js,docker,git,linux,mysql,nodejs,php,tailwind,visualstudio,vscode,bash,debian,md,obsidian,postman,raspberrypi,ubuntu,sublime,dotnet,arduino)](#MySkills)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,bootstrap,js,docker,git,linux,mysql,nodejs,php,tailwind,visualstudio,vscode,bash,debian,md,obsidian,postman,raspberrypi,ubuntu,sublime,dotnet,arduino,c)](#MySkills)
 
 ## 🤝 Partnership with:
 

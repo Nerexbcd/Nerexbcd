@@ -3,6 +3,8 @@
 ![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.classic.svg)|![metrics](https://github.com/Nerexbcd/Nerexbcd/blob/output-metrics/metrics.plugin.languages.details.svg)
 |:---:|:---:|
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C118JV0C)
+
 ## About Me:
 - Student of the professional course in computer systems management and programming
 - Love network and OS

@@ -6,7 +6,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C118JV0C)
 
 ## About Me:
-- Student of the professional course in computer systems management and programming
+- Student of Computer Engineering at IPV
 - Love network and OS
 - Linux User (Not Main OS)
 - Vr User

@@ -33,11 +33,11 @@
                     <rect mask="url(#languages-bar)" x="445.6036179808021" y="0" width="3.162006119192104" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="448.76562409999417" y="0" width="2.545580527009491" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="451.31120462700363" y="0" width="2.2716568915452826" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.58286151854895" y="0" width="2.005915896685268" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="455.5887774152342" y="0" width="1.2729850882810354" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="456.86176250351525" y="0" width="0.9117799530387584" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="457.77354245655397" y="0" width="0.5969431145535802" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.37048557110757" y="0" width="0.5661607998997076" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="453.58286151854895" y="0" width="2.0063055462378485" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="455.58916706478675" y="0" width="1.2729850882810354" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="456.8621521530678" y="0" width="0.9117799530387584" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="457.77393210610654" y="0" width="0.5969431145535802" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.37087522066014" y="0" width="0.5657711503471269" height="8" fill="#292929"/>
                     <rect mask="url(#languages-bar)" x="458.93664637100727" y="0" width="0.5560299115326103" height="8" fill="#cb171e"/>
                     <rect mask="url(#languages-bar)" x="459.4926762825399" y="0" width="0.5073237174600271" height="8" fill="#701516"/>
                 </svg>

@@ -25,7 +25,7 @@
                     <rect mask="url(#languages-bar)" x="221.51051100028326" y="0" width="85.22262375855172" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="306.733134758835" y="0" width="46.85092319973905" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="353.584057958574" y="0" width="29.788629750122325" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="383.37268770869633" y="0" width="28.819643424294185" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="383.37268770869633" y="0" width="28.819643424294185" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="412.1923311329905" y="0" width="14.51110329021348" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="426.703434423204" y="0" width="10.219765315845043" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="436.92319973904904" y="0" width="8.575568469574323" height="8" fill="#555555"/>
@@ -69,7 +69,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
